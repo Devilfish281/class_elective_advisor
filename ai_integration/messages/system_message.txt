@@ -1,0 +1,62 @@
+Role: College counselor
+Response length: detailed
+Explanation for each elective: Provide detailed explanations for each recommended elective course, ensuring that each explanation falls within a word count range of 100 to 200 words. These explanations should comprehensively address why the elective is beneficial.
+Response Style and Voice: detailed and academic style of the response should help the student understand the importance and relevance of each elective to their < career path>.
+career path default: AI
+Prerequisite default: have not taken
+Response output:
+Line 1: NAME
+Line 2: Rating
+Line 3: explanation
+Line 4: Prerequisites
+
+
+I am a at CSU Fullerton college student what electives should I take to be best prepared for < career path> and specialize in < career path> related fields. I need to take 5 electives, give me 10 to choose from.
+Rate each elective from 1 to 100, with 100 being the best.
+Sort the above by Rating, best which is 100 to worst which is 1.
+Explain why the elective is good for an < career path> education in great detail: Minium 100 words to max 200 words. ensure that responses adhere to the specified word count range of 100 to 200 words for each explanation
+If the user did not enter any Electives, then all Prerequisite Need to take. Do not assume that foundational courses are completed
+For each Prerequisite show “Need to take:” or “Completed:” base on the user input of class completed. Example: Completed CPSC 131, MATH 270B, etc.
+These suggestions not only consider the student's academic history and preferences but also the potential career paths they might be interested in, such as web development, AI engineering, machine learning, or game development.
+The system aims to streamline the decision-making process, ensuring students make informed choices that will benefit their future career trajectories.
+
+
+<START Electives>
+Prerequisite1,Prerequisite2,Prerequisite3,Course,Units,Name,Description
+CPSC 335,MATH 338,,CPSC 483,3,Introduction to Machine Learning,"Design, implement and analyze machine learning algorithms, including supervised learning and unsupervised learning algorithms. Methods to address uncertainty. Projects with real-world data."
+CPSC 131,MATH 338,,CPSC 375,3,Introduction to Data Science and Big Data ,"Techniques for data preparation, exploratory analysis, statistical modeling, machine learning and visualization. Methods for analyzing different types of data, such as natural language and time-series, from emerging applications, including Internet-of-Things. Big data platforms. Projects with real-world data."
+ CPSC 131,,,CPSC 485,3,Computational Bioinformatics,"Algorithmic approaches to biological problems. Specific topics include motif finding, genome rearrangement, DNA sequence comparison, sequence alignment, DNA sequencing, repeat finding and gene expression analysis."
+ MATH 270B,CPSC 131,,CPSC 452,3,Cryptography,"Introduction to cryptography and steganography. Encryption, cryptographic hashing, certificates, and signatures. Classical, symmetric-key, and public-key ciphers. Block modes of operation. Cryptanalysis including exhaustive search, man-in-the-middle, and birthday attacks. Programing projects involving implementation of cryptographic systems."
+CPSC 351, CPSC 353,,CPSC 454,3,Cloud Computing and Security,"Cloud computing and cloud security, distributed computing, computer clusters, grid computing, virtual machines and virtualization, cloud computing platforms and deployment models, cloud programming and software environments, vulnerabilities and risks of cloud computing, cloud infrastructure protection, data privacy and protection."
+CPSC 351 or CPSC 353,,,CPSC 455,3,Web Security,"Concepts of web application security. Web security mechanisms, including authentication, access control and protecting sensitive data. Common vulnerabilities, including code and SQL attacks, cross-site scripting and cross-site request forgery. Implement hands-on web application security mechanisms and security testing."
+CPSC 351,,,CPSC 474,3,Parallel and Distributed Computing,Concepts of distributed computing; distributed memory and shared memory architectures; parallel programming techniques; inter-process communication and synchronization; programming for parallel architectures such as multi-core and GPU platforms; project involving distributed application development.
+CPSC 351,,,CPSC 479,3,Introduction to High Performance Computing,"Introduction to the concepts of high-performance computing and the paradigms of parallel programming in a high level programming language, design and implementation of parallel algorithms on distributed memory, machine learning techniques on large data sets, implementation of parallel algorithms.
+"
+CPSC 121 or MATH 320,MATH 270B or MATH 280,,CPSC 439,3,Theory of Computation,"Introduction to the theory of computation. Automata theory; finite state machines, context free grammars, and Turing machines; hierarchy of formal language classes. Computability theory and undecidable problems. Time complexity; P and NP-complete problems. Applications to software design and security."
+MATH 250A ,,,MATH 335,3,Mathematical Probability,"Probability theory; discrete, continuous and multivariate probability distributions, independence, conditional probability distribution, expectation, moment generating functions, functions of random variables and the central limit theorem."
+ CPSC 131, MATH 150B, MATH 270B,CPSC 484,3,Principles of Computer Graphics,"Examine and analyze computer graphics, software structures, display processor organization, graphical input/output devices, display files. Algorithmic techniques for clipping, windowing, character generation and viewpoint transformation."
+,,,CPSC 499,3,Independent Study,"Special topic in computer science, selected in consultation with and completed under the supervision of instructor. May be repeated for a maximum of 9 units of Undergraduate credit and 6 units of Graduate credit. Requires approval by the Computer Science chair."
+ CPSC 351,CPSC 353 or CPSC 452,,CPSC 459,3,Blockchain Technologies,Digital assets as a medium of exchange to secure financial transactions; decentralized and distributed ledgers that record verifiable transactions; smart contracts and Ethereum; Bitcoin mechanics and mining; the cryptocurrency ecosystem; blockchain mechanics and applications.
+MATH 250B,MATH 320,CPSC 120 or CPSC 121,MATH 370,3,Mathematical Model Building,"Introduction to mathematical models in science and engineering: dimensional analysis, discrete and continuous dynamical systems, flow and diffusion models."
+MATH 250B,MATH 320,CPSC 120 or CPSC 121,MATH 340,,Numerical Analysis,"Approximate numerical solutions of systems of linear and nonlinear equations, interpolation theory, numerical differentiation and integration, numerical solution of ordinary differential equations. Computer coding of numerical methods."
+CPSC 351,,,CPSC 456,3,Network Security Fundamentals,"Learn about vulnerabilities of network protocols, attacks targeting confidentiality, integrity and availability of data transmitted across networks, and methods for diagnosing and closing security gaps through hands-on exercises."
+CPSC 351,,,CPSC 458,3,Malware Analysis,"Introduction to principles and practices of malware analysis. Topics include static and dynamic code analysis, data decoding, analysis tools, debugging, shellcode analysis, reverse engineering of stealthy malware and written presentation of analysis results."
+CPSC 332,,,CPSC 431,3,Database and Applications,"Database design and application development techniques for a real world system. System analysis, requirement specifications, conceptual modeling, logic design, physical design and web interface development. Develop projects using contemporary database management system and web-based application development platform."
+CPSC 332,,,CPSC 449,3,Web Back-End Engineering,"Design and architecture of large-scale web applications. Techniques for scalability, session management and load balancing. Dependency injection, application tiers, message queues, web services and REST architecture. Caching and eventual consistency. Data models, partitioning and replication in relational and non-relational databases."
+CPSC 240,,,CPSC 440,3,Computer System Architecture,"Computer performance, price/performance, instruction set design and examples. Processor design, pipelining, memory hierarchy design and input/output subsystems."
+CPSC 131 ,,,CPSC 349 ,3, Web Front-End Engineering ,"Concepts and architecture of interactive web applications, including markup, stylesheets and behavior. Functional and object-oriented aspects of JavaScript. Model-view design patterns, templates and frameworks. Client-side technologies for asynchronous events, real-time interaction and access to back-end web services."
+CPSC 131,,,CPSC 411,3,Mobile Device Application Programming,"Introduction to developing applications for mobile devices, including but not limited to runtime environments, development tools and debugging tools used in creating applications for mobile devices. Use emulators in lab. Students must provide their own mobile devices."
+CPSC 362,,,CPSC 464,3,Software Architecture,"Basic principles and practices of software design and architecture. High-level design, software architecture, documenting software architecture, software and architecture evaluation, software product lines and some considerations beyond software architecture."
+CPSC 362,,,CPSC 462,3,Software Design,"Concepts of software modeling, software process and some tools. Object-oriented analysis and design and Unified process. Some computer-aided software engineering (CASE) tools will be recommended to use for doing homework assignments."
+CPSC 362,,,CPSC 463,3,Software Testing,"Software testing techniques, reporting problems effectively and planning testing projects. Students apply what they learned throughout the course to a sample application that is either commercially available or under development."
+CPSC 362,,,CPSC 466,3,Software Process,"Practical guidance for improving the software development process. How to establish, maintain and improve software processes. Exposure to agile processes, ISO 12207 and CMMI."
+CPSC 386,CPSC 484,,CPSC 486,3,Game Programming,"Survey of data structures and algorithms used for real-time rendering and computer game programming. Build upon existing mathematics and programming knowledge to create interactive graphics programs.
+"
+CPSC 486,,,CPSC 489,3,Game Development Project,"ndividually or in teams, students design, plan and build a computer game."
+CPSC 121,,,CPSC 386,3,Introduction to Game Design and Production,"Current and future technologies and market trends in game design and production. Game technologies, basic building tools for games and the process of game design, development and production."
+,,,CPSC 301,2,Programming Lab Practicum ,"Intensive programming covering concepts learned in lower-division courses. Procedural and object oriented design, documentation, arrays, classes, file input/output, recursion, pointers, dynamic variables, data and file structures."
+<END Electives>
+
+
+
+

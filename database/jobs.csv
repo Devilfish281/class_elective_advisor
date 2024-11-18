@@ -1,0 +1,21 @@
+job_id,degree_id,name,description
+1,183,Software Development,"Designing, coding, and maintaining software applications for various platforms."
+2,183,Web Development,"Creating and managing websites and web applications, including frontend and backend development."
+3,183,Data Science,Analyzing and interpreting complex data to help organizations make informed decisions.
+4,183,Cybersecurity,"Protecting systems, networks, and data from digital attacks and breaches."
+5,183,Artificial Intelligence (AI) and Machine Learning (ML),Developing intelligent systems and algorithms that can learn and make decisions.
+6,183,Mobile Application Development,Designing and building applications for mobile devices like smartphones and tablets.
+7,183,Database Administration,Managing and organizing data using database management systems to ensure data availability and security.
+8,183,Network Administration,Overseeing and maintaining computer networks to ensure efficient and secure communication.
+9,183,Systems Analysis,Evaluating and improving IT systems to meet an organization's needs effectively.
+10,183,Cloud Computing,"Managing and deploying applications and services on cloud platforms like AWS, Azure, or Google Cloud."
+11,183,Game Development,"Designing and creating video games for various platforms, including consoles, PCs, and mobile devices."
+12,183,DevOps Engineering,Combining software development and IT operations to streamline and automate the software delivery process.
+13,183,IT Consulting,Advising organizations on how to best use IT practices and technologies to achieve their business goals.
+14,183,Business Intelligence,Developing strategies and tools to analyze business data for strategic planning and decision-making.
+15,183,Quality Assurance (QA) and Testing,Ensuring that software products meet quality standards through systematic testing and evaluation.
+16,183,Embedded Systems,"Designing and developing specialized computing systems that perform dedicated functions within larger systems (e.g., automotive, medical devices)."
+17,183,User Experience (UX) Design,Enhancing user satisfaction by improving the usability and accessibility of software applications.
+18,183,Technical Support and Helpdesk,Providing assistance and troubleshooting for software and hardware issues to end-users.
+19,183,Research and Development (R&D),"Innovating and developing new technologies, methodologies, or products within the tech industry."
+20,183,Bioinformatics,"Applying computer science and statistical techniques to analyze biological data, often in genomics and pharmaceuticals."

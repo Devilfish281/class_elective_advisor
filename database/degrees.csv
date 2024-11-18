@@ -1,0 +1,386 @@
+degree_id,degree_level_id,name
+1,1,"Art History, B.A."
+2,1,"Art, Ceramics Concentration, B.F.A."
+3,1,"Art, Creative Photography and Experimental Media Concentration, B.F.A."
+4,1,"Art, Drawing and Painting Concentration, B.F.A."
+5,1,"Art, Entertainment Art/Animation Concentration, B.F.A."
+6,1,"Art, Game Art, Animation and Immersive Media Concentration, B.F.A"
+7,1,"Art, General Studio Art Concentration, B.A."
+8,1,"Art, Glass Concentration, B.F.A."
+9,1,"Art, Graphic and Interactive Design Concentration, B.F.A."
+10,1,"Art, Illustration Concentration, B.F.A."
+11,1,"Art, Jewelry and Metals Concentration, B.F.A."
+12,1,"Art, Sculpture Concentration, B.F.A."
+13,1,"Art, Teaching Concentration, B.A."
+14,2,"Art, Art History Concentration, M.A."
+15,2,"Art, Ceramics Concentration, M.A."
+16,2,"Art, Ceramics Concentration, M.F.A."
+17,2,"Art, Crafts (including Jewelry/Metalsmithing and Woodworking) Concentration, M.A."
+18,2,"Art, Crafts (including Jewelry/Metalsmithing and Woodworking) Concentration, M.F.A."
+19,2,"Art, Creative Photography and Experimental Media Concentration, M.F.A."
+20,2,"Art, Creative Photography Concentration, M.A."
+21,2,"Art, Drawing and Painting Concentration, M.A."
+22,2,"Art, Drawing and Painting Concentration, M.F.A."
+23,2,"Art, Glass Concentration, M.A."
+24,2,"Art, Glass Concentration, M.F.A."
+25,2,"Art, Graphic and Interactive Design Concentration, M.A."
+26,2,"Art, Graphic and Interactive Design Concentration, M.F.A."
+27,2,"Art, Illustration Concentration, M.A."
+28,2,"Art, Illustration Concentration, M.F.A."
+29,2,"Art, Sculpture Concentration, M.A."
+30,2,"Art, Sculpture Concentration, M.F.A."
+31,3,Art Minor
+32,4,"Music, Accompanying Concentration, B.M."
+33,4,"Music, Composition Concentration, B.M."
+34,4,"Music, Instrumental Concentration, B.M."
+35,4,"Music, Jazz and Commercial Music Concentration, B.M."
+36,4,"Music, Keyboard Concentration, B.M."
+37,4,"Music, Liberal Arts Concentration, B.A."
+38,4,"Music, Music Education Concentration, Choral Emphasis, B.A."
+39,4,"Music, Music Education Concentration, General Music Emphasis, B.A."
+40,4,"Music, Music Education Concentration, Instrumental Emphasis, B.A."
+41,4,"Music, Music History and Theory Concentration, B.A."
+42,4,"Music, Piano Pedagogy Concentration, B.M."
+43,4,"Music, Voice Concentration, B.M."
+44,5,"Music, Music History and Literature Concentration, M.A."
+45,5,"Music, Performance Concentration, M.M."
+46,5,"Music, Piano Pedagogy Concentration, M.A."
+47,5,"Music, Theory and Composition Concentration, M.M."
+48,6,Music Minor
+49,7,Artist Diploma: Professional Certificate in Music Performance
+50,8,Music Teaching Credential
+51,9,"Dance, B.A."
+52,9,"Theatre, Acting Concentration, B.F.A."
+53,9,"Theatre, B.A."
+54,9,"Theatre, Devised Performance/Physical Theatre Concentration, B.F.A."
+55,9,"Theatre, Directing Concentration, B.A."
+56,9,"Theatre, Musical Theatre Concentration, B.F.A."
+57,9,"Theatre, Specialized Studies in Theatre Concentration, Design/Technical Production Emphasis, B.A."
+58,10,"Theatre Arts, Design and Technical Production Concentration, M.F.A."
+59,10,"Theatre Arts, Directing Concentration, M.F.A."
+60,11,"Accountancy, M.S."
+61,11,"Accounting and Finance, M.S."
+62,11,"Taxation, M.S."
+63,12,"Business Administration, Accounting and Business Analytics Concentration, B.A."
+64,12,"Business Administration, Accounting Concentration, B.A."
+65,12,"Business Administration, Business Analytics Concentration, B.A."
+66,12,"Business Administration, Business and Economics Analytics Concentration, B.A."
+67,12,"Business Administration, Business Economics Concentration, B.A."
+68,12,"Business Administration, Decision Sciences Concentration, B.A."
+69,12,"Business Administration, Entertainment and Hospitality Management Concentration, B.A."
+70,12,"Business Administration, Entrepreneurship Concentration, B.A."
+71,12,"Business Administration, Finance Concentration, B.A."
+72,12,"Business Administration, General Management Concentration, B.A."
+73,12,"Business Administration, Human Resources Management Concentration, B.A."
+74,12,"Business Administration, Information Systems Concentration, B.A."
+75,12,"Business Administration, Joint Emphasis in Accounting and Finance, B.A."
+76,12,"Business Administration, Joint Emphasis in Accounting and Information Systems, B.A."
+77,12,"Business Administration, Legal Studies Concentration, B.A."
+78,12,"Business Administration, Marketing and Information Systems Concentration, B.A."
+79,12,"Business Administration, Marketing Concentration, B.A."
+80,12,"Business Administration, Operations and Supply Chain Management Concentration, B.A."
+81,12,"Business Administration, Professional Business Concentration B.A. (online)"
+82,12,"Business Administration, Real Estate Concentration, B.A."
+83,12,"Business Administration, Risk Management and Insurance Concentration, B.A."
+84,13,"Business Administration, Accounting Concentration, M.B.A."
+85,13,"Business Administration, Business Analytics Concentration, M.B.A."
+86,13,"Business Administration, Finance Concentration, M.B.A."
+87,13,"Business Administration, Human Resources Concentration, M.B.A."
+88,13,"Business Administration, Information Systems Concentration, M.B.A."
+89,13,"Business Administration, M.B.A."
+90,13,"Business Administration, M.B.A. (fully employed)"
+91,13,"Business Administration, Management Concentration, M.B.A."
+92,13,"Business Administration, Marketing Concentration, M.B.A."
+93,13,"Business Administration, Operations and Supply Chain Management Concentration, M.B.A."
+94,13,"Business Administration, Organizational Leadership Concentration, M.B.A."
+95,13,"Business Administration, Risk Management and Insurance Concentration, M.B.A."
+96,14,Business Administration Minor
+97,14,Information Systems Minor
+98,15,"Economics, B.A."
+99,16,"Economics, M.A."
+100,17,Economics Minor
+101,18,Finance Minor
+102,19,Professional Certificate in Personal Financial Planning
+103,20,"Information Systems, Business Analytics Concentration, M.S."
+104,20,"Information Systems, IS Management Concentration, M.S."
+105,20,"Information Technology, Data Science Concentration, M.S."
+106,20,"Information Technology, IT Management Concentration, M.S."
+107,20,"Information Technology, M.S."
+108,21,Business Data Analytics Minor
+109,22,"International Business, Global Trade Concentration, B.A."
+110,22,"International Business, Intercultural Management Concentration, B.A."
+111,23,Entertainment and Hospitality Management Minor
+112,23,Entrepreneurship Minor
+113,24,Professional Certificate in Human Resources Management
+114,25,Marketing Minor
+115,25,Sales Minor
+116,26,Graduate Certificate in Marketing Analytics
+117,27,"Cinema and Television Arts, B.A."
+118,28,"Screenwriting, M.F.A."
+119,29,Cinema and Television Arts Minor
+120,30,"Communicative Disorders, B.S."
+121,31,"Communicative Disorders, M.S."
+122,32,American Speech-Language-Hearing Association SLP Certification
+123,32,California SLP Licensure
+124,32,"Speech-Language Pathology Services Credential in Language, Speech and Hearing"
+125,33,Communication Sciences and Disorders Master?s Preparatory Certificate
+126,33,Communication Sciences and Disorders Multicultural Certificate
+127,34,"Communications, Advertising Concentration, B.A."
+128,34,"Communications, Entertainment and Tourism Communications Concentration, B.A."
+129,34,"Communications, Journalism Concentration, B.A."
+130,34,"Communications, Public Relations Concentration, B.A."
+131,35,"Communications, Communications in Tourism and Entertainment Concentration, M.A."
+132,35,"Communications, Mass Communications Research and Theory Concentration, M.A."
+133,35,"Communications, Professional Communications Concentration, M.A."
+134,35,"Communications, Tourism and Entertainment Concentration, M.A."
+135,36,Advertising Minor
+136,36,Journalism Minor
+137,36,Public Relations Minor
+138,37,Digital Communications Media Certificate
+139,37,Photocommunications Certificate
+140,37,Radio-Audio Certificate
+141,37,Sports Media Certificate
+142,38,"Communication Studies, B.A."
+143,39,"Communication Studies, M.A."
+144,40,Communication Studies Minor
+145,41,"Educational Leadership and Administration, M.S."
+146,41,"Higher Education, M.S."
+147,42,"Educational Leadership, Community College Concentration, Ed.D."
+148,42,"Educational Leadership, P-12 Concentration, Ed.D."
+149,43,Community College Studies Certificate
+150,43,Improvement Science for Education Leaders
+151,44,"Curriculum and Instruction, Early Childhood Education Concentration, M.S."
+152,44,"Curriculum and Instruction, Education for Social Justice Concentration, M.S."
+153,44,"Curriculum and Instruction, M.S."
+154,44,"Curriculum and Instruction, Math and Science Concentration, M.S."
+155,44,"Education, Bilingual/Bicultural Education Concentration, M.S.*"
+156,44,"Educational Technology, M.S."
+157,45,The Professional Teacher Preparation Program for the Multiple Subject (Elementary) Credential Program
+158,46,Certificate of Educational Technology Integration
+159,47,"Instructional Design and Technology, M.S."
+160,48,Certificate in Instructional Design Level 1
+161,48,Certificate in Instructional Design Level 2
+162,49,"Literacy and Reading Education, M.S."
+163,50,Literacy for Social Change Minor
+164,50,Reading and Literacy Added Authorization
+165,50,Reading and Literacy Leadership Specialist Credential
+166,51,Postsecondary Literacy and Learning Certificate
+167,52,"Transformative Teaching in Secondary Education, M.S. (online only)"
+168,53,"Secondary Education, Intern Program"
+169,53,"Secondary Education, Single Subject Credential Program"
+170,54,"Urban Learning, B.A."
+171,55,"Special Education, M.S."
+172,56,Autism Added Authorization
+173,56,Early Childhood Special Education Authorization
+174,56,Early Childhood Special Education Credential
+175,56,Extensive Support Needs Preliminary Education Specialist Credential
+176,56,Mild to Moderate Support Needs Preliminary Education Specialist Credential
+177,56,Special Education University Internship
+178,57,Resource Specialist Certificate of Competency
+179,58,"Civil Engineering, Architectural Engineering Emphasis, B.S."
+180,58,"Civil Engineering, B.S."
+181,59,"Civil Engineering, M.S."
+182,59,"Environmental Engineering, M.S. (online only)"
+183,60,"Computer Science, B.S."
+184,60,"Computer Science, Cybersecurity Concentration, B.S."
+185,61,"Applied Computer Science, M.S."
+186,61,"Computer Science, M.S."
+187,61,"Software Engineering, M.S."
+188,62,Computer Science Minor
+189,63,"Computer Engineering, B.S."
+190,63,"Computer Engineering, Blended B.S.-M.S."
+191,63,"Electrical Engineering, B.S."
+192,64,"Computer Engineering, M.S."
+193,64,"Electrical Engineering, M.S."
+194,64,"Electrical Engineering, Option in Systems Engineering, M.S.*"
+195,65,"Engineering, B.S."
+196,66,"Mechanical Engineering, B.S."
+197,67,"Mechanical Engineering, M.S."
+198,68,"Child and Adolescent Studies, Adolescent/Youth Development Concentration, B.S."
+199,68,"Child and Adolescent Studies, Early Childhood Development Concentration, B.S."
+200,68,"Child and Adolescent Studies, Elementary School Settings Concentration, B.S."
+201,68,"Child and Adolescent Studies, Family and Community Contexts Concentration, B.S."
+202,69,Adolescent Development Minor
+203,69,Child and Adolescent Studies Minor
+204,70,"Clinical Mental Health Counseling and Marriage and Family Therapy, ?nimo: Latinx Counseling Concentration M.S."
+205,70,"Clinical Mental Health Counseling and Marriage and Family Therapy, M.S."
+206,71,"Human Services, Addiction Studies Concentration, B.S."
+207,71,"Human Services, B.S."
+208,71,"Human Services, Elementary Education Concentration, B.S."
+209,71,"Human Services, Mental Health Concentration, B.S."
+210,72,Human Services Minor
+211,73,"Kinesiology, B.S."
+212,73,"Kinesiology, Exercise Science Concentration, B.S."
+213,73,"Kinesiology, Gerokinesiology Concentration, B.S."
+214,73,"Kinesiology, Pre-Allied Health Concentration, B.S."
+215,73,"Kinesiology, Recreation and Physical Activity Promotion Concentration, B.S."
+216,73,"Kinesiology, Sport Studies Concentration, B.S."
+217,73,"Kinesiology, Strength and Conditioning Concentration, B.S."
+218,73,"Kinesiology, Teacher Education Concentration, B.S."
+219,74,"Athletic Training, M.S."
+220,74,"Kinesiology, M.S."
+221,75,Kinesiology Minor
+222,76,Military Science Minor
+223,77,"Nursing, B.S."
+224,78,"Nursing, Nurse Educator Concentration, M.S."
+225,78,"Nursing, Nursing Leadership Concentration, M.S."
+226,78,"Nursing, School Nursing Concentration, M.S. (online only)"
+227,78,"Nursing, Women?s Health Care Concentration, Nurse-Midwife/Women?s Health Nurse Practitioner Emphasis, M.S."
+228,78,"Nursing, Women?s Health Care Concentration, Women?s Health Care Nurse Practitioner Emphasis, M.S."
+229,79,"Nursing, Doctor of Nursing Practice, DNP"
+230,79,"Nursing, Doctor of Nursing Practice, Nurse Anesthesia Concentration, DNP"
+231,80,School Nurse Services (SNS) Credential (online only)
+232,81,"Public Health, Environmental and Occupational Health and Safety Concentration, B.S."
+233,81,"Public Health, General Studies Concentration, B.S."
+234,81,"Public Health, Global Health Concentration, B.S."
+235,81,"Public Health, Health Education and Promotion Concentration, B.S."
+236,81,"Public Health, Public Health Nutrition Concentration, B.S."
+237,82,"Public Health, M.P.H."
+238,83,Public Health Minor
+239,84,"Social Work, Aging Concentration, M.S.W."
+240,84,"Social Work, Child Welfare Concentration, M.S.W."
+241,84,"Social Work, Community Mental Health Concentration, M.S.W."
+242,85,"Humanities and Social Sciences, B.A. (online degree completion)"
+243,86,"Ethnic Studies, African American Studies Concentration, B.A."
+244,87,African American Studies Minor
+245,88,"Gerontology, M.S."
+246,89,Aging Studies Minor
+247,90,"American Studies, B.A."
+248,91,"American Studies, M.A."
+249,92,American Studies Minor
+250,93,"Anthropology, B.A."
+251,94,"Anthropology, M.A."
+252,95,Anthropology Minor
+253,96,Forensic Anthropology Certificate
+254,97,"Ethnic Studies, Asian American Studies Concentration, B.A."
+255,98,Asian American Studies Minor
+256,99,Asian Studies Minor
+257,100,"Ethnic Studies, Chicana and Chicano Studies Concentration, B.A."
+258,101,Chicana and Chicano Studies Minor
+259,102,"Comparative Literature, B.A."
+260,102,"English, B.A."
+261,102,"Linguistics, B.A."
+262,103,"English, M.A."
+263,103,"Linguistics, Analysis of Specific Language Structures Concentration, M.A."
+264,103,"Linguistics, Anthropological Linguistics Concentration, M.A."
+265,103,"Linguistics, Applied Linguistics Concentration, M.A."
+266,103,"Linguistics, Communications and Semantics Concentration, M.A."
+267,103,"Linguistics, Disorders of Communication Concentration, M.A."
+268,103,"Linguistics, Language and Mind Concentration, M.A."
+269,103,"Linguistics, Language and Society Concentration, M.A."
+270,104,Comparative Literature Minor
+271,104,Creative Writing Minor
+272,104,English Minor
+273,104,Linguistics Minor
+274,105,"Environmental Studies, M.S."
+275,106,"Geography, B.A."
+276,106,"Geography, Environmental Analysis Concentration, B.A."
+277,107,"Geography, M.A."
+278,108,Geography Minor
+279,109,Geographic Information Systems (GIS) Certificate
+280,109,Geospatial Technologies Certificate
+281,110,"History, B.A."
+282,111,"History, Chicana/Chicano Studies Concentration, M.A."
+283,111,"History, M.A."
+284,111,"History, Public History Concentration, M.A."
+285,112,History Minor
+286,113,"Latin American Studies, B.A.*"
+287,114,Latin American Studies Minor
+288,115,"Liberal Studies, B.A."
+289,116,Food Studies Minor
+290,116,Foundations of Liberal Studies Minor
+291,116,Liberal Studies Minor
+292,116,"Science, Culture, and Society Minor"
+293,117,"French, B.A."
+294,117,"Japanese, B.A."
+295,117,"Spanish, B.A."
+296,118,"Spanish, Chicana/Chicano Studies Concentration, M.A."
+297,118,"Spanish, M.A."
+298,119,"Teaching English to Speakers of Other Languages, M.S."
+299,120,Chinese Minor
+300,120,French Minor
+301,120,Japanese Minor
+302,120,Spanish Minor
+303,120,Vietnamese Minor
+304,121,Certificate in Translation: Spanish to English/English to Spanish
+305,121,Spanish for Hispanic Media Certificate
+306,121,Teaching English to Speakers of Other Languages (TESOL) Certificate
+307,121,Undergraduate TESOL Professional Certificate
+308,122,"Philosophy, B.A."
+309,122,"Philosophy, Social, Moral, and Legal Philosophy for the Professions Concentration, B.A."
+310,123,Philosophy Minor
+311,124,"Criminal Justice, B.A."
+312,124,"Political Science, B.A."
+313,124,"Public Administration, B.A."
+314,125,"Political Science, M.A."
+315,126,"Public Administration, Human Resources Concentration, M.P.A."
+316,126,"Public Administration, Local Government Management Concentration, M.P.A."
+317,126,"Public Administration, Public Finance Management Concentration, M.P.A."
+318,126,"Public Administration, Public Policy Concentration, M.P.A"
+319,127,Criminal Justice Minor
+320,127,International Politics Minor
+321,127,"Law, Politics and Society Minor"
+322,127,Political Science Minor
+323,127,Public Administration Minor
+324,127,Public Policy Minor
+325,128,Security Studies
+326,129,"Psychology, B.A."
+327,130,"Psychology, M.A."
+328,131,"Psychology, Clinical, M.S."
+329,132,Psychology Minor
+330,133,"Religious Studies, B.A."
+331,134,Christian Studies Minor
+332,134,Islamic Studies Minor
+333,134,Jewish Studies Minor
+334,134,Religious Studies Minor
+335,134,Southwest Asia and North Africa (SWANA) Minor
+336,135,"Sociology, B.A."
+337,135,"Sociology, B.A. (online degree completion)"
+338,135,"Sociology, Health and Social Welfare Concentration, B.A."
+339,135,"Sociology, Social Inequalities Concentration, B.A."
+340,135,"Sociology, Sociology of Deviance and Crime Concentration, B.A."
+341,136,"Sociology, M.A."
+342,137,Sociology Minor
+343,138,"Women and Gender Studies, B.A."
+344,139,Queer Studies Minor
+345,139,Women and Gender Studies Minor
+346,140,"Biological Science, Cell and Developmental Biology Concentration, B.S."
+347,140,"Biological Science, Ecology and Evolutionary Biology Concentration, B.S."
+348,140,"Biological Science, Marine Biology Concentration, B.S."
+349,140,"Biological Science, Molecular Biology and Biotechnology Concentration, B.S."
+350,140,"Biological Science, Plant Biology Concentration, B.S."
+351,141,"Biology, M.S."
+352,142,Cell and Molecular Biology Minor
+353,142,Environmental Biology Minor
+354,143,"Chemistry, B.A."
+355,144,"Biochemistry, B.S."
+356,144,"Chemistry, B.S."
+357,145,"Chemistry, M.A."
+358,146,"Chemistry, Analytical Concentration, M.S."
+359,146,"Chemistry, Biochemistry Concentration, M.S."
+360,146,"Chemistry, Inorganic Concentration, M.S."
+361,146,"Chemistry, Organic Concentration, M.S."
+362,146,"Chemistry, Physical Concentration, M.S."
+363,147,Chemistry Minor
+364,148,"Earth Science, B.A."
+365,149,"Geology, B.S."
+366,150,"Geology, M.S."
+367,151,Geology Minor
+368,152,"Mathematics, Actuarial Science Concentration, B.A."
+369,152,"Mathematics, Applied Mathematics Concentration, B.A."
+370,152,"Mathematics, Probability and Statistics Concentration, B.A."
+371,152,"Mathematics, Pure Mathematics Concentration, B.A."
+372,152,"Mathematics, Teaching Mathematics Concentration, B.A."
+373,153,"Mathematics, Teaching Option, M.A."
+374,154,"Computational Applied Mathematics, M.S."
+375,154,"Statistics, M.S."
+376,155,California Single Subject Credential in Mathematics
+377,155,Mathematics for Teacher Education Minor
+378,155,Mathematics Minor
+379,156,"Physics, B.S."
+380,156,"Physics, Business Emphasis, B.S."
+381,157,"Physics, M.S."
+382,158,Physics Minor
+383,158,Teaching Credential
+384,159,Natural Sciences Minor
+385,159,Single Subject Teaching Credential

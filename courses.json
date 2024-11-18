@@ -1,0 +1,82 @@
+[
+    {
+        "Number": 1,
+        "Course Code": "CPSC 335",
+        "Course Name": "Introduction to Machine Learning",
+        "Rating": 100,
+        "Prerequisites": "CPSC 335, MATH 338",
+        "Explanation": "Machine Learning (ML) is a cornerstone of AI development, making this elective invaluable for students looking to specialize in AI and ML fields. Understanding ML involves mastering algorithms that allow computers to learn from data, a critical aspect of AI. This course covers both supervised and unsupervised learning algorithms, providing students with practical skills to design, implement, and analyze these algorithms. Real-world projects enhance understanding, enabling students to tackle uncertainty in data and apply their knowledge to various applications. Mastery of ML algorithms positions students to excel in AI roles, as they learn to extract insights from vast data sets, a skill highly sought after in industries ranging from tech to healthcare."
+    },
+    {
+        "Number": 2,
+        "Course Code": "CPSC 131",
+        "Course Name": "Introduction to Data Science and Big Data",
+        "Rating": 95,
+        "Prerequisites": "CPSC 131, MATH 338",
+        "Explanation": "Data Science and Big Data are integral to AI, as they form the backbone of data-driven decision-making processes. This course introduces data preparation techniques, exploratory analysis, and machine learning, equipping students with skills to handle diverse data types. Understanding statistical modeling and visualization is crucial for interpreting AI outputs and making informed decisions. With projects utilizing real-world data, students gain practical experience in applying theoretical knowledge to tangible problems. The course also covers big data platforms, essential for managing and analyzing large datasets. Proficiency in data science ensures students can extract valuable insights from data, a pivotal capability in AI and ML roles."
+    },
+    {
+        "Number": 3,
+        "Course Code": "MATH 250A",
+        "Course Name": "Mathematical Probability",
+        "Rating": 90,
+        "Prerequisites": "MATH 250A",
+        "Explanation": "Probability theory is fundamental to understanding various AI and ML concepts, such as inference, prediction, and decision-making under uncertainty. This course covers discrete and continuous probability distributions, expectation, and the central limit theorem, providing a solid foundation for modeling and analyzing stochastic processes. As AI systems often involve probabilistic models, knowledge of probability is crucial for designing algorithms that predict outcomes and manage uncertainties. Understanding functions of random variables and moment generating functions enhances a student's ability to interpret and apply probabilistic models in AI applications, making this course an essential component of an AI-focused curriculum."
+    },
+    {
+        "Number": 4,
+        "Course Code": "CPSC 332",
+        "Course Name": "Database and Applications",
+        "Rating": 85,
+        "Prerequisites": "None",
+        "Explanation": "Databases are critical for storing, retrieving, and managing the vast amounts of data required for AI applications. This course teaches students about system analysis, requirement specifications, database design, and application development, crucial skills for creating efficient data management systems. Understanding databases enables students to handle structured and unstructured data, a necessity for training AI models. Through project-based learning, students engage with contemporary database management systems, fostering the ability to develop real-world applications. This knowledge is essential for AI professionals who need to ensure data integrity and accessibility to support machine learning processes and decision-making systems."
+    },
+    {
+        "Number": 5,
+        "Course Code": "CPSC 351",
+        "Course Name": "Introduction to High Performance Computing",
+        "Rating": 80,
+        "Prerequisites": "CPSC 351",
+        "Explanation": "High-performance computing (HPC) is vital for AI and ML, as these fields often require processing large datasets and complex computations efficiently. This course introduces parallel programming and the design and implementation of parallel algorithms, key skills for optimizing computational tasks. Understanding HPC concepts allows students to leverage distributed memory systems and enhance the speed and efficiency of AI models. By learning to implement parallel algorithms, students can significantly reduce processing times for AI applications, making this course crucial for those looking to work with large-scale AI systems or in environments where computational efficiency is paramount."
+    },
+    {
+        "Number": 6,
+        "Course Code": "CPSC 253",
+        "Course Name": "Cloud Computing and Security",
+        "Rating": 75,
+        "Prerequisites": "CPSC 351, CPSC 253",
+        "Explanation": "Cloud computing has revolutionized the way data is stored and processed, providing scalable and flexible solutions for AI applications. This course covers distributed computing, cloud security, and virtualization, equipping students with the knowledge to manage AI workloads in cloud environments. Understanding cloud security is crucial for protecting sensitive data used in AI models. As AI applications often require substantial computational resources, cloud platforms offer cost-effective solutions for scaling AI operations. This course prepares students to deploy AI models securely and efficiently in cloud environments, an essential skill in today's tech-driven landscape where cloud solutions are increasingly prevalent."
+    },
+    {
+        "Number": 7,
+        "Course Code": "CPSC 351",
+        "Course Name": "Parallel and Distributed Computing",
+        "Rating": 70,
+        "Prerequisites": "CPSC 351",
+        "Explanation": "Parallel and distributed computing are essential for handling complex computations in AI, enabling the processing of large datasets concurrently. This course teaches inter-process communication, synchronization, and programming for parallel architectures, such as multi-core and GPU platforms. These skills are crucial for optimizing AI algorithms and reducing computation times. Understanding how to develop distributed applications allows students to create scalable AI solutions capable of handling increased loads. Mastery of these concepts ensures students can implement efficient AI systems in environments demanding high computational power, making this elective a valuable addition to an AI-focused academic path."
+    },
+    {
+        "Number": 8,
+        "Course Code": "CPSC 351",
+        "Course Name": "Malware Analysis",
+        "Rating": 65,
+        "Prerequisites": "CPSC 351",
+        "Explanation": "Understanding cybersecurity is vital for AI professionals, as AI systems often handle sensitive data and require secure environments to operate. This course introduces principles of malware analysis, including static and dynamic code analysis and reverse engineering, equipping students with skills to protect AI systems from malicious threats. Knowledge of malware analysis enhances a student's ability to secure AI applications against vulnerabilities that could compromise data integrity and confidentiality. As AI systems become integral to various industries, ensuring their security becomes paramount, making this course relevant for students interested in safeguarding AI technologies from potential cyber threats."
+    },
+    {
+        "Number": 9,
+        "Course Code": "MATH 250A",
+        "Course Name": "Numerical Analysis",
+        "Rating": 60,
+        "Prerequisites": "MATH 250A",
+        "Explanation": "Numerical analysis is crucial for developing algorithms that solve mathematical problems numerically, a common requirement in AI and ML applications. This course covers numerical solutions of equations, interpolation, and numerical differentiation and integration, foundational skills for implementing algorithms used in AI models. Understanding numerical methods is essential for AI professionals who develop models that require precise calculations and approximations. By learning to code numerical methods, students gain practical skills applicable to optimizing AI algorithms and enhancing their accuracy and efficiency, making this course a beneficial component of an AI-focused education."
+    },
+    {
+        "Number": 10,
+        "Course Code": "CPSC 362",
+        "Course Name": "Software Design",
+        "Rating": 55,
+        "Prerequisites": "None",
+        "Explanation": "Software design is an integral part of developing AI applications, as it involves the creation of robust, scalable, and maintainable software systems. This course introduces students to software modeling, process, and object-oriented analysis and design, essential skills for crafting effective AI solutions. Understanding software design principles ensures that AI applications are built with a solid architectural foundation, facilitating future updates and scalability. As AI systems become more complex, effective software design becomes increasingly important, ensuring that these systems can evolve and adapt to new challenges and requirements. This course provides students with the tools needed to excel in AI development."
+    }
+]

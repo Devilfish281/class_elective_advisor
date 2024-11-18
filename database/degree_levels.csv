@@ -1,0 +1,160 @@
+degree_level_id,department_id,name
+1,1,Bachelor?s
+2,1,Master?s
+3,1,Minor
+4,2,Bachelor?s
+5,2,Master?s
+6,2,Minor
+7,2,Certificate
+8,2,Credentials
+9,3,Bachelor?s
+10,3,Master?s
+11,4,Master of Science
+12,5,Bachelor of Arts
+13,5,Master of Business Administration
+14,5,Non-Degree
+15,6,Bachelor of Arts
+16,6,Master of Arts
+17,6,Non-Degree
+18,7,Non-Degree
+19,7,Certificate
+20,8,Master of Science
+21,8,Non-Degree
+22,9,Bachelor of Arts
+23,10,Non-Degree
+24,10,Certificate
+25,11,Non-Degree
+26,11,Certificate
+27,12,Bachelor of Arts
+28,12,Master of Fine Arts
+29,12,Non-Degree
+30,13,Bachelor of Science
+31,13,Master of Science
+32,13,Non-Degree
+33,13,Certificate
+34,14,Bachelor of Arts
+35,14,Master of Arts
+36,14,Non-Degree
+37,14,Certificate
+38,15,Bachelor of Arts
+39,15,Master of Arts
+40,15,Non-Degree
+41,16,Master of Science
+42,16,Doctor of Education
+43,16,Certificate
+44,17,Master of Science
+45,17,Non-Degree
+46,17,Certificate
+47,18,Master of Science
+48,18,Certificate
+49,19,Master of Science
+50,19,Non-Degree
+51,19,Certificate
+52,20,Master of Science
+53,20,Non-Degree
+54,21,Bachelor of Arts
+55,21,Master of Science
+56,21,Non-Degree
+57,21,Certificate
+58,22,Bachelor of Science
+59,22,Master of Science
+60,23,Bachelor of Science
+61,23,Master of Science
+62,23,Non-Degree
+63,24,Bachelor of Science
+64,24,Master of Science
+65,25,Bachelor of Science
+66,26,Bachelor of Science
+67,26,Master of Science
+68,27,Bachelor of Science
+69,27,Non-Degree
+70,28,Master of Science
+71,29,Bachelor of Science
+72,29,Non-Degree
+73,30,Bachelor of Science
+74,30,Master of Science
+75,30,Non-Degree
+76,31,Non-Degree
+77,32,Bachelor of Science
+78,32,Master of Science
+79,32,Doctor of Nursing Practice
+80,32,Non-Degree
+81,33,Bachelor of Science
+82,33,Master of Public Health
+83,33,Non-Degree
+84,34,Master of Social Work
+85,35,Bachelor of Arts
+86,36,Bachelor of Arts
+87,36,Non-Degree
+88,37,Master of Science
+89,37,Non-Degree
+90,38,Bachelor of Arts
+91,38,Master of Arts
+92,38,Non-Degree
+93,39,Bachelor of Arts
+94,39,Master of Arts
+95,39,Non-Degree
+96,39,Certificate
+97,40,Bachelor of Arts
+98,40,Non-Degree
+99,41,Non-Degree
+100,42,Bachelor of Arts
+101,42,Non-Degree
+102,43,Bachelor of Arts
+103,43,Master of Arts
+104,43,Non-Degree
+105,44,Master of Science
+106,45,Bachelor of Arts
+107,45,Master of Arts
+108,45,Non-Degree
+109,45,Certificate
+110,46,Bachelor of Arts
+111,46,Master of Arts
+112,46,Non-Degree
+113,47,Bachelor of Arts
+114,47,Non-Degree
+115,48,Bachelor of Arts
+116,48,Non-Degree
+117,49,Bachelor of Arts
+118,49,Master of Arts
+119,49,Master of Science
+120,49,Non-Degree
+121,49,Certificate
+122,50,Bachelor of Arts
+123,50,Non-Degree
+124,51,Bachelor of Arts
+125,51,Master of Arts
+126,51,Master of Public Administration
+127,51,Non-Degree
+128,51,Certificate
+129,52,Bachelor of Arts
+130,52,Master of Arts
+131,52,Master of Science
+132,52,Non-Degree
+133,53,Bachelor of Arts
+134,53,Non-Degree
+135,54,Bachelor of Arts
+136,54,Master of Arts
+137,54,Non-Degree
+138,55,Bachelor of Arts
+139,55,Non-Degree
+140,56,Bachelor of Science
+141,56,Master of Science
+142,56,Non-Degree
+143,57,Bachelor of Arts
+144,57,Bachelor of Science
+145,57,Master of Arts
+146,57,Master of Science
+147,57,Non-Degree
+148,58,Bachelor of Arts
+149,58,Bachelor of Science
+150,58,Master of Science
+151,58,Non-Degree
+152,59,Bachelor of Arts
+153,59,Master of Arts
+154,59,Master of Science
+155,59,Non-Degree
+156,60,Bachelor of Science
+157,60,Master of Science
+158,60,Non-Degree
+159,61,Non-Degree

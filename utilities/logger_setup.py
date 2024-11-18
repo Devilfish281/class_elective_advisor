@@ -7,6 +7,7 @@ import logging
 # logger = logging.getLogger(__name__)  # Reuse the global logger
 
 
+# TODO: Log Rotation: Implement log rotation to prevent log files from growing indefinitely.
 def setup_logger():
     # Set up logging globally
     logging.basicConfig(

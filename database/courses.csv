@@ -1,0 +1,76 @@
+course_id,subcategory_id,name,description,prerequisites
+1,1,"CPSC 120, Introduction to Programming, (3)",,
+2,1,"CPSC 121, Object-Oriented Programming, (3)",,
+3,1,"CPSC 131, Data Structures, (3)",,
+4,1,"CPSC 223C, C Programming, (3)",,
+5,1,"CPSC 223J, Java Programming, (3)",,
+6,1,"CPSC 223N, Visual C# Programming, (3)",,
+7,1,"CPSC 223P, Python Programming, (3)",,
+8,1,"CPSC 223W, Swift Programming, (3)",,
+9,1,"CPSC 240, Computer Organization and Assembly Language, (3)",,
+10,1,"CPSC 253, Cybersecurity Foundations and Principles, (3)",,
+11,2,"CPSC 315, Professional Ethics in Computing, (3)",,
+12,2,"CPSC 323, Compilers and Languages, (3)",,
+13,2,"CPSC 332, File Structures and Database Systems, (3)",,
+14,2,"CPSC 335, Algorithm Engineering, (3)",,
+15,2,"CPSC 351, Operating Systems Concepts, (3)",,
+16,2,"CPSC 362, Foundations of Software Engineering, (3)",,
+17,2,"CPSC 471, Computer Communications, (3)",,
+18,2,"CPSC 481, Artificial Intelligence, (3)",,
+19,2,"CPSC 490, Undergraduate Seminar in Computer Science, (3)",,
+20,2,"CPSC 491, Senior Capstone Project in Computer Science, (3)",,
+21,3,"MATH 150A, Calculus I (4)",,
+22,3,"MATH 150B, Calculus II (4)",,
+23,3,"MATH 170A, Mathematical Structures I, (3)",,
+24,3,"MATH 170B, Mathematical Structures II, (3)",,
+25,3,"MATH 338, Statistics Applied to Natural Sciences (4)",,
+26,4,"BIOL 101, Elements of Biology, (3)",,
+27,4,"BIOL 101L, Elements of Biology Laboratory (1)",,
+28,4,"BIOL 151, Cellular and Molecular Biology (4)",,
+29,4,"BIOL 152, Evolution and Organismal Biology (4)",,
+30,4,"CHEM 120A, General Chemistry (5)",,
+31,4,"CHEM 120B, General Chemistry (5)",,
+32,4,"CHEM 123, Chemistry for Engineers, (3)",,
+33,4,"CHEM 125, General Chemistry B Lecture, (3)",,
+34,4,"GEOL 101, Introduction to Geology, (3)",,
+35,4,"GEOL 101L, Introduction to Geology Laboratory (1)",,
+36,4,"GEOL 201, Earth History, (3)",,
+37,4,"GEOL 201L, Earth History Supplemental Lab (1)",,
+38,4,"MATH 250A, Calculus III (4)",,
+39,4,"MATH 250B, Introduction to Linear Algebra and Differential Equations (4)",,
+40,4,"PHYS 225, Fundamental Physics: Mechanics, (3)",,
+41,4,"PHYS 225L, Fundamental Physics: Laboratory, (1)",,
+42,4,"PHYS 226, Fundamental Physics: Electricity and Magnetism, (3)",,
+43,4,"PHYS 226L, Fundamental Physics: Laboratory, (1)",,
+44,4,"PHYS 227, Fundamental Physics: Waves, Optics, and Modern Physics (1-3)",,
+45,4,"PHYS 227L, Fundamental Physics: Laboratory, (1)",,
+46,5,"CPSC 254, Software Development with Open Source Systems","Philosophy of open source software development, open source operating systems such as Linux; open source development tools; open source programming languages, such as Python; open source software development processes; open source software licensing issues. (2 hours lecture, 2 hours laboratory)",CPSC 131
+47,5,"CPSC 301, Programming Lab Practicum","Intensive programming covering concepts learned in lower-division courses. Procedural and object oriented design, documentation, arrays, classes, file input/output, recursion, pointers, dynamic variables, data and file structures.",CPSC 131;
+48,5,"CPSC 349, Web Front-End Engineering","Concepts and architecture of interactive web applications, including markup, stylesheets and behavior. Functional and object-oriented aspects of JavaScript. Model-view design patterns, templates and frameworks. Client-side technologies for asynchronous events, real-time interaction and access to back-end web services.",CPSC 131
+49,5,"CPSC 352, Cryptography","Introduction to cryptography and steganography. Encryption, cryptographic hashing, certificates, and signatures. Classical, symmetric-key, and public-key ciphers. Block modes of operation. Cryptanalysis including exhaustive search, man-in-the-middle, and birthday attacks. Programing projects involving implementation of cryptographic systems.","MATH 170B, CPSC 131, CPSC 253"
+50,5,"CPSC 375, Introduction to Data Science and Big Data","Techniques for data preparation, exploratory analysis, statistical modeling, machine learning and visualization. Methods for analyzing different types of data, such as natural language and time-series, from emerging applications, including Internet-of-Things. Big data platforms. Projects with real-world data.","CPSC 131, MATH 338"
+51,5,"CPSC 386, Introduction to Game Design and Production","Current and future technologies and market trends in game design and production. Game technologies, basic building tools for games and the process of game design, development and production.",CPSC 121
+52,5,"CPSC 411, Mobile Device Application Programming","Introduction to developing applications for mobile devices, including but not limited to runtime environments, development tools and debugging tools used in creating applications for mobile devices. Use emulators in lab. Students must provide their own mobile devices.",CPSC 131
+53,5,"CPSC 411A, Mobile Device Application Programming for Android","Introduction to developing applications for Android mobile devices, including but not limited to runtime environments, development tools and debugging tools used in creating applications for mobile devices. Use emulators in lab. Students must provide own mobile devices.",CPSC 131
+54,5,"CPSC 431, Database and Applications","Database design and application development techniques for a real world system. System analysis, requirement specifications, conceptual modeling, logic design, physical design and web interface development. Develop projects using contemporary database management system and web-based application development platform.",CPSC 332
+55,5,"CPSC 439, Theory of Computation","Introduction to the theory of computation. Automata theory; finite state machines, context free grammars, and Turing machines; hierarchy of formal language classes. Computability theory and undecidable problems. Time complexity; P and NP-complete problems. Applications to software design and security.",CPSC 121 or MATH 320; MATH 170B or MATH 280;
+56,5,"CPSC 440, Computer System Architecture","Computer performance, price/performance, instruction set design and examples. Processor design, pipelining, memory hierarchy design and input/output subsystems.",CPSC 240
+57,5,"CPSC 449, Web Back-End Engineering","Design and architecture of large-scale web applications. Techniques for scalability, session management and load balancing. Dependency injection, application tiers, message queues, web services and REST architecture. Caching and eventual consistency. Data models, partitioning and replication in relational and non-relational databases.",CPSC 332
+58,5,"CPSC 454, Cloud Computing and Security","Cloud computing and cloud security, distributed computing, computer clusters, grid computing, virtual machines and virtualization, cloud computing platforms and deployment models, cloud programming and software environments, vulnerabilities and risks of cloud computing, cloud infrastructure protection, data privacy and protection.","CPSC 351, CPSC 253"
+59,5,"CPSC 455, Web Security","Concepts of web application security. Web security mechanisms, including authentication, access control and protecting sensitive data. Common vulnerabilities, including code and SQL attacks, cross-site scripting and cross-site request forgery. Implement hands-on web application security mechanisms and security testing.",CPSC 351 or CPSC 253
+60,5,"CPSC 456, Network Security Fundamentals","Learn about vulnerabilities of network protocols, attacks targeting confidentiality, integrity and availability of data transmitted across networks, and methods for diagnosing and closing security gaps through hands-on exercises.",CPSC 351;
+61,5,"CPSC 458, Malware Analysis","Introduction to principles and practices of malware analysis. Topics include static and dynamic code analysis, data decoding, analysis tools, debugging, shellcode analysis, reverse engineering of stealthy malware and written presentation of analysis results.",CPSC 351
+62,5,"CPSC 459, Blockchain Technologies",Digital assets as a medium of exchange to secure financial transactions; decentralized and distributed ledgers that record verifiable transactions; smart contracts and Ethereum; Bitcoin mechanics and mining; the cryptocurrency ecosystem; blockchain mechanics and applications.,"CPSC 351, CPSC 352 or CPSC 253"
+63,5,"CPSC 462, Software Design","Concepts of software modeling, software process and some tools. Object-oriented analysis and design and Unified process. Some computer-aided software engineering (CASE) tools will be recommended to use for doing homework assignments.",CPSC 362
+64,5,"CPSC 463, Software Testing","Software testing techniques, reporting problems effectively and planning testing projects. Students apply what they learned throughout the course to a sample application that is either commercially available or under development.",CPSC 362
+65,5,"CPSC 464, Software Architecture","Basic principles and practices of software design and architecture. High-level design, software architecture, documenting software architecture, software and architecture evaluation, software product lines and some considerations beyond software architecture.",CPSC 362
+66,5,"CPSC 466, Software Process","Practical guidance for improving the software development process. How to establish, maintain and improve software processes. Exposure to agile processes, ISO 12207 and CMMI.",CPSC 362
+67,5,"CPSC 474, Parallel and Distributed Computing",Concepts of distributed computing; distributed memory and shared memory architectures; parallel programming techniques; inter-process communication and synchronization; programming for parallel architectures such as multi-core and GPU platforms; project involving distributed application development.,CPSC 351
+68,5,"CPSC 479, Introduction to High Performance Computing","Introduction to the concepts of high-performance computing and the paradigms of parallel programming in a high level programming language, design and implementation of parallel algorithms on distributed memory, machine learning techniques on large data sets, implementation of parallel algorithms.",CPSC 351
+69,5,"CPSC 483, Introduction to Machine Learning","Design, implement and analyze machine learning algorithms, including supervised learning and unsupervised learning algorithms. Methods to address uncertainty. Projects with real-world data.","CPSC 335, MATH 338;"
+70,5,"CPSC 484, Principles of Computer Graphics","Examine and analyze computer graphics, software structures, display processor organization, graphical input/output devices, display files. Algorithmic techniques for clipping, windowing, character generation and viewpoint transformation.","CPSC 131, MATH 150B, MATH 170B"
+71,5,"CPSC 485, Computational Bioinformatics","Algorithmic approaches to biological problems. Specific topics include motif finding, genome rearrangement, DNA sequence comparison, sequence alignment, DNA sequencing, repeat finding and gene expression analysis.",CPSC 131
+72,5,"CPSC 486, Game Programming",Survey of data structures and algorithms used for real-time rendering and computer game programming. Build upon existing mathematics and programming knowledge to create interactive graphics programs.,"CPSC 386, CPSC 484"
+73,5,"MATH 335, Mathematical Probability","Probability theory; discrete, continuous and multivariate probability distributions, independence, conditional probability distribution, expectation, moment generating functions, functions of random variables and the central limit theorem.",MATH 250A
+74,5,"MATH 340, Numerical Analysis","Approximate numerical solutions of systems of linear and nonlinear equations, interpolation theory, numerical differentiation and integration, numerical solution of ordinary differential equations. Computer coding of numerical methods.","MATH 250A; MATH 207 or MATH 250B; MATH 107 and MATH 207, or CPSC 120A and CPSC 120L, or MATH 320, or CPSC 121."
+75,5,"MATH 370, Mathematical Model Building","Introduction to mathematical models in science and engineering. Dimensional analysis, discrete and continuous dynamical systems, and numerous other topics. Emphasizes deriving equations and using mathematical tools to make predictions.","MATH 250A; MATH 207 or MATH 250B; MATH 107 and MATH 207, or CPSC 120A and CPSC 120L, or MATH 320, or CPSC 121"

@@ -1,0 +1,62 @@
+department_id,college_id,name
+1,1,Art Department
+2,1,Music School
+3,1,Theatre and Dance Department
+4,2,Accountancy School
+5,2,Business Administration
+6,2,Economics Department
+7,2,Finance Department
+8,2,Information Systems and Decision Sciences Department
+9,2,International Business Program
+10,2,Management Department
+11,2,Marketing Department
+12,3,Cinema and Television Arts Department
+13,3,"Communication Sciences and Disorders, Department"
+14,3,Communications Department
+15,3,Human Communication Studies Department
+16,4,Educational Leadership Department
+17,4,Elementary and Bilingual Education Department
+18,4,Instructional Design and Technology Program
+19,4,Literacy and Reading Education Department
+20,4,Secondary Education Department
+21,4,Special Education Department
+22,5,Civil and Environmental Engineering department
+23,5,Computer Science Department
+24,5,Electrical and Computer Engineering Department
+25,5,Engineering Program
+26,5,"Mechanical Engineering, Department"
+27,6,Child and Adolescent Studies Department
+28,6,Counseling Department
+29,6,Human Services Department
+30,6,Kinesiology Department
+31,6,Military Science Program
+32,6,Nursing School
+33,6,Public Health Departmen
+34,6,Social Work Department
+35,7,Learning Goals and Student Learning Outcomes
+36,7,African American Studies Department
+37,7,Aging Studies Program
+38,7,American Studies Department
+39,7,Anthropology Division
+40,7,Asian American Studies Department
+41,7,Asian Studies Program
+42,7,Chicana and Chicano Studies Department
+43,7,"English, Comparative Literature and Linguistics Department"
+44,7,Environmental Studies Program
+45,7,"Geography and the Environment, Department"
+46,7,History Department
+47,7,Latin American Studies Program
+48,7,Liberal Studies Department
+49,7,Modern Languages and Literatures Department
+50,7,Philosophy Department
+51,7,"Politics, Administration and Justice Division"
+52,7,Psychology Department
+53,7,Religious Studies Department
+54,7,Sociology Department
+55,7,Women and Gender Studies Department
+56,8,Biological Science Department
+57,8,Chemistry and Biochemistry Department
+58,8,Geological Sciences Department
+59,8,Mathematics Department
+60,8,Physics Department
+61,8,Science Education Program
