@@ -1026,7 +1026,7 @@ def get_degree_electives(degree_id):
 
         cursor.execute(
             """
-            SELECT course_id, name, units, description, prerequisites
+            SELECT course_id, course_code, name, units, description, prerequisites
             FROM Courses
             WHERE subcategory_id = ?
             ORDER BY name;
@@ -1041,6 +1041,7 @@ def get_degree_electives(degree_id):
             electives.append(
                 {
                     "course_id": row["course_id"],
+                    "course_code": row["course_code"],
                     "name": row["name"],
                     "units": row["units"],
                     "description": row["description"],

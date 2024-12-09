@@ -199,7 +199,7 @@ def main_int_ai():
 # ui/gui.py
 
 
-def format_elective_string(prerequisites, units, name, description):
+def format_elective_string(prerequisites, course_code, units, name, description):
     """
     Formats the elective string with placeholders for prerequisites.
 
@@ -225,7 +225,7 @@ def format_elective_string(prerequisites, units, name, description):
         Concatenate prerequisites, units, name, and description separated by commas.
     """
 
-    if prerequisites.lower() == "none":
+    if not prerequisites or prerequisites.lower() == "none":
         prereq_formatted = "None,,"
     else:
         prereq_list = [p.strip() for p in prerequisites.split(",")]
@@ -245,7 +245,8 @@ def format_elective_string(prerequisites, units, name, description):
         prereq_formatted = ",".join(prereq_list[:3])
 
     # Final formatted string
-    formatted = f"{prereq_formatted},{units},{name},{description}"
+    # Prerequisite1,Prerequisite2,Prerequisite3,Course_Code,Units,Name,Description
+    formatted = f"{prereq_formatted},{course_code},{units},{name},{description}"
     return formatted
 
 
@@ -282,11 +283,15 @@ def get_recommendations_ai(job_id, job_name, degree_name, degree_electives):
             # Prepare the prompt with the provided parameters
             # Convert degree_electives to a formatted string
             # format of: 'Prerequisite1,Prerequisite2,Prerequisite3,Course,Units,Name,Description'
-            # Format electives_str as 'Prerequisite1,Prerequisite2,Prerequisite3,Units,Name,Description'
+            # Format electives_str as 'Prerequisite1,Prerequisite2,Prerequisite3,Course,Units,Name,Description'
             electives_str = "\n".join(
                 [
                     format_elective_string(
-                        e["prerequisites"], e["units"], e["name"], e["description"]
+                        e["prerequisites"],
+                        e["course_code"],
+                        e["units"],
+                        e["name"],
+                        e["description"],
                     )
                     for e in degree_electives
                 ]
